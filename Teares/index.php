@@ -3,7 +3,7 @@ include('includes/header.php');
 ?>
 		<div>
 			<span>
-				<h1>Introdução</h1>
+				<h1>Introdução alteração via git</h1>
 			</span>
 		</div>
 		<div class="fleft col-md-3">
