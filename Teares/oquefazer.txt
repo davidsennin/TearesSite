@@ -1,0 +1,15 @@
+PAINEL ADMIN
+	Cadastro de tears para venda
+		Campos
+			Nome
+			Telefone
+			Preço
+			Foto
+
+	Permitir deleção de dos teares
+
+	Permitir Edição de todos os teares
+
+
+Painel usuário
+	Criar tela para exibir todos os teares que estão a venda
